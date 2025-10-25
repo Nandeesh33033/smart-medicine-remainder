@@ -1,0 +1,5 @@
+{
+  "name": "Smart Medicine Reminder",
+  "description": "A web application for caretakers to manage patient medication schedules and for patients to receive reminders. This app uses browser notifications and can be enhanced into a Progressive Web App (PWA) for a more native-like experience.",
+  "requestFramePermissions": []
+}
